@@ -1,0 +1,1 @@
+start_msg = 'Send the document as a file for scanning (Maximum file size to download is 20 MB), also you can scan the link.'

@@ -1,0 +1,5 @@
+SCAN_URL = 'https://www.virustotal.com/vtapi/v2/url/scan'
+URL_REPORT = 'https://www.virustotal.com/vtapi/v2/url/report'
+FILE_RESCAN = 'https://www.virustotal.com/vtapi/v2/file/rescan'
+FILE_SCAN = 'https://www.virustotal.com/vtapi/v2/file/scan'
+FILE_REPORT = 'https://www.virustotal.com/vtapi/v2/file/report'
